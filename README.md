@@ -1,2 +1,0 @@
-# hashTableTemplate
-C++ hashTableTemplate
